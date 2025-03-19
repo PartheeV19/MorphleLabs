@@ -1,2 +1,2 @@
 # MorphleLabs
-![output](morphlelabs.png)
+![output](morphelabs.png)
